@@ -29,7 +29,7 @@ const App = () => {
           loading={"lazy"}
         />
         <Heading size="xl" bottomSpacing="None">
-          CodeSandbox
+          CodeSandbox ;)
         </Heading>
       </Container>
       <Container appearance="secondary" padding="Xl">
