@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@vodafone_de/brix-components": "8.0.1",
+    "@vis.gl/react-google-maps": "^1.5.1",
+    "@af-utils/scrollend-polyfill": "^0.0.14",
+    "@contentful/live-preview": "^4.6.36",
+    "@contentful/rich-text-react-renderer": "^16.1.0",
+    "react-scripts": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "html-react-parser": "4.1",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "styled-components": "^6.1.17",
+    "uuid": "^11.1.0"
+  },
+  "description": "Brix in Codesandbox",
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react-scripts": "latest"
+  },
+  "private": true,
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  }
+}
