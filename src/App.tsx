@@ -14,8 +14,8 @@ import {
 
 import imgLogo from "@vodafone_de/brix-components/brix-react-logo-light.svg";
 
-import imgCodeSandbox from "../public/assets/DiscoveryCard_CodeSandbox_16-9.png";
-import imgGetStarted from "../public/assets/DiscoveryCard_GetStarted_16-9.png";
+import imgCodeSandbox from "./assets/DiscoveryCard_CodeSandbox_16-9.png";
+import imgGetStarted from "./assets/DiscoveryCard_GetStarted_16-9.png";
 
 const App = () => {
   return (
