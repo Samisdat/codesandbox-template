@@ -1,8 +1,8 @@
 import * as React from "react";
 
-import { version } from "@vodafone_de/brix-components/package.json";
+import pkg from "@vodafone_de/brix-components/package.json";
 
-const fontUrlFromCdn = `https://unpkg.com/@vodafone_de/brix-components@${version}/VodafoneVF.woff2`;
+const fontUrlFromCdn = `https://unpkg.com/@vodafone_de/brix-components@${pkg.version}/VodafoneVF.woff2`;
 
 const css = `
 @font-face {
